@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @khanhvvo
+- 👀 I’m interested in analyzing data 
+- 🌱 I’m currently learning how to use multiple programming languages like R, SQL. I also learn to create data visualization on Tableau
+- 📫 Reach me at: khanhvonguyenucsd@gmail.com
